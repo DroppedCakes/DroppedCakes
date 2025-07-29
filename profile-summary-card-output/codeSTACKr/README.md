@@ -15,26 +15,6 @@
 ### Each card usage
 ---
 
-![](./2-most-commit-language.svg)
-
-```
-![](https://raw.githubusercontent.com/DroppedCakes/DroppedCakes/master/profile-summary-card-output/codeSTACKr/2-most-commit-language.svg)
-```
-
-    
-
----
-
-![](./3-stats.svg)
-
-```
-![](https://raw.githubusercontent.com/DroppedCakes/DroppedCakes/master/profile-summary-card-output/codeSTACKr/3-stats.svg)
-```
-
-    
-
----
-
 ![](./4-productive-time.svg)
 
 ```
